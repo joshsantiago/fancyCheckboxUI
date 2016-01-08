@@ -1,0 +1,27 @@
+{
+  "name": "fancyCheckboxUI",
+  "title": "Fancycheckboxui",
+  "description": "This plugin allows the user to customize the HTML standard checkbox into using objects to represent checkboxes",
+  "version": "0.1.0",
+  "homepage": "https://github.com/user/fancyCheckboxUI",
+  "author": {
+    "name": "Joshua Santiago",
+    "email": "jsantiago@kodewerks.com",
+    "url": "kodewerks.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/user/fancyCheckboxUI.git"
+  },
+  "bugs": "https://github.com/user/fancyCheckboxUI/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/user/fancyCheckboxUI/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
